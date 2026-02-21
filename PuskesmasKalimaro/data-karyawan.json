@@ -1,0 +1,221 @@
+{
+  "instansi": "UPT. Puskesmas Kalimaro",
+  "tahun": 2017,
+  "kepala_upt": {
+    "nama": "IDRIS ZAENUDDIN, Ns",
+    "nip": "19680813 198903 1 006",
+    "tanggal_penetapan": "2017-11-15",
+    "tempat_penetapan": "Kalimaro"
+  },
+  "data_karyawan": [
+    {
+      "no": 1,
+      "nama": "Atin Supriatin",
+      "tempat_lahir": "Cirebon",
+      "tanggal_lahir": "1979-12-05",
+      "tmt": "2000-09-01",
+      "profesi": "Pelaksana",
+      "pendidikan": "SMA",
+      "tahun_lulus": 1999,
+      "alamat": "RT. 01 RW. 01 Desa Kalimaro Kec. Gebang Kab. Cirebon"
+    },
+    {
+      "no": 2,
+      "nama": "Cunita, Amd. Kep",
+      "tempat_lahir": "Cirebon",
+      "tanggal_lahir": "1983-12-14",
+      "tmt": "2006-09-01",
+      "profesi": "Perawat",
+      "pendidikan": "D3 Keperawatan",
+      "tahun_lulus": 2005,
+      "alamat": "RT. 02 RW. 01 Desa Gebang Udik Kec. Gebang Kab. Cirebon"
+    },
+    {
+      "no": 3,
+      "nama": "Lisdiana, Amd.Kep",
+      "tempat_lahir": "Cirebon",
+      "tanggal_lahir": "1983-04-08",
+      "tmt": "2006-10-01",
+      "profesi": "Perawat",
+      "pendidikan": "D3 Keperawatan",
+      "tahun_lulus": 2004,
+      "alamat": "RT. 03 RW. 02 Desa Playangan Kec. Gebang Kab. Cirebon"
+    },
+    {
+      "no": 4,
+      "nama": "Maharani, Amd.Keb",
+      "tempat_lahir": "Cirebon",
+      "tanggal_lahir": "1983-03-13",
+      "tmt": "2012-01-02",
+      "profesi": "Bidan",
+      "pendidikan": "D3 Kebidanan",
+      "tahun_lulus": 2010,
+      "alamat": "RT. 03 RW. 06 Desa Kalimekar Kec. Gebang Kab. Cirebon"
+    },
+    {
+      "no": 5,
+      "nama": "Ulya Sari, Amd.Keb",
+      "tempat_lahir": "Cirebon",
+      "tanggal_lahir": "1990-06-28",
+      "tmt": "2012-04-01",
+      "profesi": "Bidan",
+      "pendidikan": "D3 Kebidanan",
+      "tahun_lulus": 2011,
+      "alamat": "RT. 02 RW. 04 Desa Kalimaro Kec. Gebang Kab. Cirebon"
+    },
+    {
+      "no": 6,
+      "nama": "Wahyuningsih",
+      "tempat_lahir": "Cirebon",
+      "tanggal_lahir": "1981-11-21",
+      "tmt": "2012-09-26",
+      "profesi": "Pelaksana",
+      "pendidikan": "SMA",
+      "tahun_lulus": 2000,
+      "alamat": "RT. 01 RW. 07 Desa Gebang Udik Kec. Gebang Kab. Cirebon"
+    },
+    {
+      "no": 7,
+      "nama": "Sri Andayani, Amd.Keb",
+      "tempat_lahir": "Cirebon",
+      "tanggal_lahir": "1986-06-29",
+      "tmt": "2015-02-01",
+      "profesi": "Bidan",
+      "pendidikan": "D3 Kebidanan",
+      "tahun_lulus": 2014,
+      "alamat": "RT. 15 RW. 04 Desa Dompyong Wetan Kec. Gebang Kab. Cirebon"
+    },
+    {
+      "no": 8,
+      "nama": "Ari Heriansyah, SKM",
+      "tempat_lahir": "Cirebon",
+      "tanggal_lahir": "1992-01-19",
+      "tmt": "2015-02-02",
+      "profesi": "Ahli Kesmas",
+      "pendidikan": "S1 Kesmas",
+      "tahun_lulus": 2014,
+      "alamat": "RT. 01 RW. 04 Desa Susukan Lebak Kec. Susukan Lebak Kab. Cirebon"
+    },
+    {
+      "no": 9,
+      "nama": "Dede Hanif, Amd.KG",
+      "tempat_lahir": "Cirebon",
+      "tanggal_lahir": "1994-03-25",
+      "tmt": "2015-08-01",
+      "profesi": "Perawat Gigi",
+      "pendidikan": "D3 Keperawatan Gigi",
+      "tahun_lulus": 2015,
+      "alamat": "RT. 06 RW. 02 Desa Dompyong Wetan Kec. Gebang Kab. Cirebon"
+    },
+    {
+      "no": 10,
+      "nama": "Nurhayati, Amd.Keb",
+      "tempat_lahir": "Cirebon",
+      "tanggal_lahir": "1991-05-16",
+      "tmt": "2015-08-01",
+      "profesi": "Bidan",
+      "pendidikan": "D3 Kebidanan",
+      "tahun_lulus": 2012,
+      "alamat": "RT. 20 RW. 05 Desa Dompyong Kulon Kec. Gebang Kab. Cirebon"
+    },
+    {
+      "no": 11,
+      "nama": "Ade Aliman, Amd.Kep",
+      "tempat_lahir": "Cirebon",
+      "tanggal_lahir": "1990-04-18",
+      "tmt": "2016-02-17",
+      "profesi": "Perawat Pelaksana",
+      "pendidikan": "D3 Keperawatan",
+      "tahun_lulus": 2012,
+      "alamat": "RT. 02 RW. 08 Desa Pabuaran Wetan Kec. Pabuaran Kab. Cirebon"
+    },
+    {
+      "no": 12,
+      "nama": "Moh. Riyan Hermawan, S.Kep",
+      "tempat_lahir": "Cirebon",
+      "tanggal_lahir": "1992-08-28",
+      "tmt": "2016-08-03",
+      "profesi": "Perawat Pelaksana",
+      "pendidikan": "S1 Keperawatan",
+      "tahun_lulus": 2014,
+      "alamat": "RT. 05 RW. 07 Desa Mundu Kec. Mundu Kab. Cirebon"
+    },
+    {
+      "no": 13,
+      "nama": "Yeni Tri Desiyanti, Amd.Kep",
+      "tempat_lahir": "Cirebon",
+      "tanggal_lahir": "1994-12-25",
+      "tmt": "2016-09-01",
+      "profesi": "Tata Usaha",
+      "pendidikan": "D3 Keperawatan",
+      "tahun_lulus": 2016,
+      "alamat": "RT. 02 RW. 02 Desa Gebang Kulon Kec. Gebang Kab. Cirebon"
+    },
+    {
+      "no": 14,
+      "nama": "Megawati",
+      "tempat_lahir": "Cirebon",
+      "tanggal_lahir": "1992-02-01",
+      "tmt": "2016-02-14",
+      "profesi": "Pelaksana",
+      "pendidikan": "SMA",
+      "tahun_lulus": 2010,
+      "alamat": "RT. 03 RW. 11 Desa Gebang Kulon Kec. Gebang Kab. Cirebon"
+    },
+    {
+      "no": 15,
+      "nama": "Iqbal Rijalul Fikri, SE",
+      "tempat_lahir": "Cirebon",
+      "tanggal_lahir": "1992-10-31",
+      "tmt": "2017-01-23",
+      "profesi": "Tata Usaha",
+      "pendidikan": "S1 Ekonomi",
+      "tahun_lulus": 2015,
+      "alamat": "RT. 02 RW. 01 Desa Pilangsari Cirebon Kab. Cirebon"
+    },
+    {
+      "no": 16,
+      "nama": "Sonia Agustina, Amd.Keb",
+      "tempat_lahir": "Cirebon",
+      "tanggal_lahir": "1995-08-20",
+      "tmt": "2017-03-13",
+      "profesi": "Bidan",
+      "pendidikan": "D3 Kebidanan",
+      "tahun_lulus": 2016,
+      "alamat": "RT. 01 RW. 02 Desa Babakan Kec. Babakan Kab. Cirebon"
+    },
+    {
+      "no": 17,
+      "nama": "Maya Istiyana, Amd.Keb",
+      "tempat_lahir": "Cirebon",
+      "tanggal_lahir": "1993-08-02",
+      "tmt": "2017-03-20",
+      "profesi": "Bidan",
+      "pendidikan": "D3 Kebidanan",
+      "tahun_lulus": 2015,
+      "alamat": "RT. 01 RW. 01 Desa Munjul Kec. Asjap Kab. Cirebon"
+    },
+    {
+      "no": 18,
+      "nama": "Nurkholisoh",
+      "tempat_lahir": "Cirebon",
+      "tanggal_lahir": "1994-05-14",
+      "tmt": "2017-10-30",
+      "profesi": "Analis",
+      "pendidikan": "D3 Analis",
+      "tahun_lulus": 2016,
+      "alamat": "RT. 01 RW. 07 Desa Pabuaran Kidul Kec. Pabuaran Kab. Cirebon"
+    },
+    {
+      "no": 19,
+      "nama": "Tusyamsiyah, Amd.AK / dr. Rebecca Marychan",
+      "tempat_lahir": "Cirebon",
+      "tanggal_lahir": "1981-04-04",
+      "tmt": "2017-08-01",
+      "profesi": "Dokter",
+      "pendidikan": "S1 Kedokteran",
+      "tahun_lulus": 2007,
+      "alamat": "Jl. Pekiringan No. 133 Kota Cirebon"
+    }
+  ]
+}
